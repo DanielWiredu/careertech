@@ -12,7 +12,7 @@ print(total_expense)
 
 '''
 laon amount
-rate
+loan rate - update
 payment made
 noOfMonths
 '''
