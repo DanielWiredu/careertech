@@ -15,4 +15,8 @@ elif (comp_choice == user_input):
 
 
     #gillianogyiri@gmail.com
-    # Gillian Ogyiri
+    # Gillian  Ogyiri
+    # https://www.youtube.com/watch?v=KhGWbt1dAKQ
+    # https://www.youtube.com/watch?v=pBy1zgt0XPc
+    # https://www.youtube.com/watch?v=i_23KUAEtUM
+
